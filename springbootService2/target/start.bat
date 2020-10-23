@@ -1,0 +1,1 @@
+java -jar springbootService2-1.0-SNAPSHOT.jar
